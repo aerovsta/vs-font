@@ -2,5 +2,5 @@
     font-family: 'GP50_EUCJ';
     font-style: normal;
     font-weight: 400;
-    src: local('GP50_EUCJ'), url('https://fonts.cdnfonts.com/s/95537/00002_6.woff') format('woff');
+    src: local('GP50_EUCJ'), url('https://github.com/aerovsta/vs-font/blob/main/00002_6.ttf') format('woff');
 }
